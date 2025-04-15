@@ -21,7 +21,7 @@ body {
         background-color: gold;
       }
     
-    .summary, .skills, .work-history, .education {
+    .summary, .skills, .work-history, .education, .appointment {
     margin: 20px;
     font-family: "Lucida Bright";
     margin: 10px;
